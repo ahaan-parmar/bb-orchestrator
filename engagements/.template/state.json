@@ -1,0 +1,27 @@
+{
+  "target": "",
+  "created": "",
+  "mode": "bug-bounty",
+  "platform": "intigriti",
+  "phase": 0,
+  "checkpoint_cleared": false,
+  "scope": {
+    "in": [],
+    "out": [],
+    "maybe": [],
+    "wildcards": [],
+    "rate_limit": null,
+    "allowed_techniques": [],
+    "forbidden_techniques": [],
+    "account_rules": null,
+    "safe_harbor": null
+  },
+  "identities": [],
+  "assets": [],
+  "live_hosts": [],
+  "surfaces": [],
+  "ranked": [],
+  "hunt_plan": [],
+  "findings": [],
+  "log": []
+}

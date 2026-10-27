@@ -1,0 +1,8 @@
+engagements/*/
+!engagements/.template/
+.secrets
+*.token
+__pycache__/
+*.pyc
+.vendor/
+.from-bughunter
